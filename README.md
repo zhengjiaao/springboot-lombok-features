@@ -1,7 +1,7 @@
 # Lombok
 
 - 官网：https://projectlombok.org/features/all
-- 示例代码仓库 gitte [springboot-lombok-features]()
+- 示例代码仓库 gitte [springboot-lombok-features](https://gitee.com/zhengjiaao/springboot-lombok-features)
 
 
 ## lombok install
@@ -54,7 +54,7 @@ jdk9
 ## lombok features
 
 > lombok 功能示例来源[lombok官方文档中的示例](https://projectlombok.org/features/all)，具体使用的细节请查看官方使用说明，此仓库示例仅个人预研使用。
-> 代码仓库地址 [springboot-lombok-features]() 
+> 代码仓库地址 [springboot-lombok-features](https://gitee.com/zhengjiaao/springboot-lombok-features) 
 
 
 
